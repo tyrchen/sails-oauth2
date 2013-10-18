@@ -1,4 +1,5 @@
-sails-oauth2
-============
+sails-oauth2 - integrate oauth2 provider into sails 
+==========================================
 
-Integrate oauth2 support for sails
+This project integrate oauth2 provider into sails for api driven projects.
+
